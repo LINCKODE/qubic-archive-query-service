@@ -70,6 +70,8 @@ github.com/qubic/go-data-publisher/status-service v0.6.1 h1:OMT4krUmGzQvblZCeDw1
 github.com/qubic/go-data-publisher/status-service v0.6.1/go.mod h1:1bc1jf2GG83eetXExEFVp93QgMi8minw/2YIQUM5toY=
 github.com/qubic/go-node-connector v0.11.0 h1:7gNoMN1UnODiuLRs4fjdxS4/d3Qc3+FjJJKUByH1BP0=
 github.com/qubic/go-node-connector v0.11.0/go.mod h1:jLbmYx2GUh8Ctk5zULFepgho7yoGZXrU8/tMk+fcuEc=
+github.com/qubic/go-node-connector v0.13.0 h1:uA2NNiPasrYdHS2K3liU3mNlmu+jVU5heNHqbHODU4E=
+github.com/qubic/go-node-connector v0.13.0/go.mod h1:jLbmYx2GUh8Ctk5zULFepgho7yoGZXrU8/tMk+fcuEc=
 github.com/qubic/go-schnorrq v1.0.1 h1:F0R/BQVf+O7Bp57NGJmc3uXlqsaIzerg/1bmU4jMLLE=
 github.com/qubic/go-schnorrq v1.0.1/go.mod h1:j2qw/zHiyjH9GAScAAETWpZk6iELbjYnzIg7CQwc5wM=
 github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR38lUII=
