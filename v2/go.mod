@@ -6,7 +6,7 @@ require (
 	github.com/ardanlabs/conf v1.5.0
 	github.com/elastic/go-elasticsearch/v8 v8.18.0
 	github.com/google/go-cmp v0.7.0
-	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.0.1
+	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.1.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.3
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/prometheus/client_golang v1.22.0
