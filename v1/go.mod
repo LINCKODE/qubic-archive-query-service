@@ -1,6 +1,6 @@
 module github.com/qubic/archive-query-service
 
-go 1.24.4
+go 1.26.0
 
 require (
 	github.com/ardanlabs/conf v1.5.0
@@ -10,21 +10,21 @@ require (
 	github.com/jellydator/ttlcache/v3 v3.3.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.22.0
-	github.com/qubic/go-archiver v0.10.4
+	github.com/qubic/go-archiver v0.13.1
 	github.com/qubic/go-data-publisher/status-service v0.6.1
 	github.com/qubic/go-node-connector v0.11.0
-	github.com/stretchr/testify v1.10.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20250324211829-b45e905df463
-	google.golang.org/grpc v1.71.1
+	github.com/stretchr/testify v1.11.1
+	google.golang.org/genproto/googleapis/api v0.0.0-20250428153025-10db94c68c34
+	google.golang.org/grpc v1.72.0
 	google.golang.org/protobuf v1.36.6
 )
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/bits-and-blooms/bitset v1.14.3 // indirect
+	github.com/bits-and-blooms/bitset v1.24.4 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/cloudflare/circl v1.5.0 // indirect
-	github.com/consensys/gnark-crypto v0.14.0 // indirect
+	github.com/cloudflare/circl v1.6.3 // indirect
+	github.com/consensys/gnark-crypto v0.20.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/elastic/elastic-transport-go/v8 v8.7.0 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
@@ -36,15 +36,16 @@ require (
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.62.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
-	github.com/qubic/go-schnorrq v1.0.1 // indirect
+	github.com/qubic/go-schnorrq v1.1.2 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/otel v1.34.0 // indirect
 	go.opentelemetry.io/otel/metric v1.34.0 // indirect
 	go.opentelemetry.io/otel/trace v1.34.0 // indirect
-	golang.org/x/net v0.38.0 // indirect
-	golang.org/x/sync v0.12.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
-	golang.org/x/text v0.23.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250313205543-e70fdf4c4cb4 // indirect
+	golang.org/x/crypto v0.48.0 // indirect
+	golang.org/x/net v0.49.0 // indirect
+	golang.org/x/sync v0.19.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
+	golang.org/x/text v0.34.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250425173222-7b384671a197 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
