@@ -1,10 +1,11 @@
 module github.com/qubic/archive-query-service
 
-go 1.24.4
+go 1.25
 
 require (
 	github.com/ardanlabs/conf v1.5.0
 	github.com/elastic/go-elasticsearch/v8 v8.18.0
+	github.com/elastic/go-elasticsearch/v9 v9.5.2
 	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.0.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.3
 	github.com/jellydator/ttlcache/v3 v3.3.0
@@ -26,8 +27,8 @@ require (
 	github.com/cloudflare/circl v1.5.0 // indirect
 	github.com/consensys/gnark-crypto v0.14.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/elastic/elastic-transport-go/v8 v8.7.0 // indirect
-	github.com/go-logr/logr v1.4.2 // indirect
+	github.com/elastic/elastic-transport-go/v8 v8.9.0 // indirect
+	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.1.0 // indirect
 	github.com/linckode/circl v1.3.71 // indirect
@@ -38,9 +39,9 @@ require (
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/qubic/go-schnorrq v1.0.1 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
-	go.opentelemetry.io/otel v1.34.0 // indirect
-	go.opentelemetry.io/otel/metric v1.34.0 // indirect
-	go.opentelemetry.io/otel/trace v1.34.0 // indirect
+	go.opentelemetry.io/otel v1.35.0 // indirect
+	go.opentelemetry.io/otel/metric v1.35.0 // indirect
+	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 	golang.org/x/net v0.38.0 // indirect
 	golang.org/x/sync v0.12.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
